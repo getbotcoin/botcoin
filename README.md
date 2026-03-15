@@ -1,4 +1,3 @@
-![alt text]([http://url/to/img.png](https://ibb.co/h1JpsXPW))
 # Botcoin — AI Agent for $BOTCOIN | https://botcoin.live/
 
 > **An autonomous Twitter/X reply bot powered by xAI (Grok) — the on-chain AI admin of $BOTCOIN on Solana.**
